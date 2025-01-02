@@ -24,8 +24,7 @@
 ## 🔗 Connect with Me  
 
 - **GitHub:** [Maelus-999](https://github.com/Maelus-999)
-- **Website of My Project:** [CheeseCake Clicker](https://maelgentil.me)
-- **Current Project:** [CheeseCake Clicker On Github](https://github.com/Maelus-999/CheeseCakeClicker)  
+- **Current Project:** [CheeseCake Clicker](https://github.com/Maelus-999/CheeseCakeClicker)  
 
 ---
 
