@@ -25,7 +25,7 @@
 
 - **GitHub:** [Maelus-999](https://github.com/Maelus-999)
 - **Website:** [maelgentil.me](https://maelgentil.me)
-- **Current Project:** [CheeseCake Clicker](https://github.com/Maelus-999/CheeseCakeClicker)  
+- **Current Project:** [CheeseCake Clicker](https://cheesecake.maelgentil.me/)  
 
 ---
 
