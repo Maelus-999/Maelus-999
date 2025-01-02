@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hello there! I'm Maël Gentil  
 
-<!--
-**Maelus-999/Maelus-999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **High School Student** passionate about **IT development** and exploring new technologies.  
+🚀 Currently working on **[CheeseCake Clicker](https://maelgentil.me)**, an Android clicker game that’s as fun as it sounds!  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ My Skills  
+
+- **Languages:** Java, HTML/CSS, Python, C++
+- **Tools:** Git, Android Studio, Jetbrain's tools  
+- **Interests:** Mobile app development, game development, and learning new frameworks.  
+
+---
+
+## 📈 My Current Goals  
+
+- 🌟 Improving the **CheeseCake Clicker** project with new features and better performance.   
+
+---
+
+## 🔗 Connect with Me  
+
+- **GitHub:** [Maelus-999](https://github.com/Maelus-999)
+- **Website of My Project:** [CheeseCake Clicker](https://maelgentil.me)
+- **Current Project:** [CheeseCake Clicker On Github](https://github.com/Maelus-999/CheeseCakeClicker)  
+
+---
+
+Feel free to explore my repositories and leave a star ⭐ on projects you like! :3
