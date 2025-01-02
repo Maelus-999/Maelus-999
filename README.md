@@ -2,7 +2,7 @@
 
 🎓 **High School Student** passionate about **IT development** and exploring new technologies.  
 
-🚀 Currently working on **[CheeseCake Clicker](https://maelgentil.me)**, an ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) Clicker Games!  
+🚀 Currently working on **[CheeseCake Clicker](https://maelgentil.me)**, an **Android** Clicker Games!  
 
 ---
 
