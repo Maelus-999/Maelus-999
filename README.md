@@ -2,8 +2,6 @@
 
 🎓 **High School Student** passionate about **IT development** and exploring new technologies.  
 
-🚀 Currently working on **[CheeseCake Clicker](https://maelgentil.me)**, an **Android** Clicker Games!  
-
 ---
 
 ## 🛠️ My Skills  
@@ -15,17 +13,10 @@
 
 ---
 
-## 📈 My Current Goals  
-
-- 🌟 Improving the **CheeseCake Clicker** project with new features and better performance.   
-
----
-
 ## 🔗 Connect with Me  
 
 - **GitHub:** [Maelus-999](https://github.com/Maelus-999)
 - **Website:** [maelgentil.me](https://maelgentil.me)
-- **Current Project:** [CheeseCake Clicker](https://cheesecake.maelgentil.me/)  
 
 ---
 
